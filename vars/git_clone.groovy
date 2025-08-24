@@ -1,3 +1,3 @@
-def call(String $url){
-	echo "clone in process"
+def call(String url){
+	echo "clone in process ${url}"
 }
