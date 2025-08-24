@@ -1,3 +1,3 @@
 def call(String url){
-	echo "clone in process ${url}"
+	git url: "${url}"
 }
